@@ -1,9 +1,27 @@
+# Artistas
+spotify:artist:4q3ewBCX7sLwd24euuV69X
+spotify:artist:5XNXCwV2R3zqPV7bcAaXO2
+spotify:artist:14tQtnhpuWyGwxAq9tMoqb
+spotify:artist:2ZlSAzHvyBehXT1LVCzwhw
+
+# Playlists  
 spotify:playlist:37i9dQZF1DX2apWzyECwyZ
-spotify:playlist:37i9dQZF1DZ06evO1IPOOk
-spotify:playlist:37i9dQZF1DZ06evO4bwDxS
 spotify:playlist:37i9dQZF1E4vHEBscc1l2u
 spotify:playlist:37i9dQZF1E4wPZb4Ndyadi
 spotify:playlist:37i9dQZF1DZ06evO3w2s4e
 spotify:playlist:37i9dQZF1E4v8nUB7yyYXe
 spotify:playlist:37i9dQZF1DZ06evO1J3icX
 spotify:playlist:37i9dQZF1E4yQCp7DOyef8
+
+# Busquedas
+SEARCH|Bad Bunny
+SEARCH|Jeiperd
+SEARCH|Mundo kids
+SEARCH|Luz del viento
+SEARCH|Yaroa
+
+# Tracks
+spotify:track:xxxxx
+
+# API Key Groq (opcional)
+GROQ_KEY|tu_key_gsk_p8qg09Nv03cQM3ywIaSwWGdyb3FYhPc9HeFZvHdJASfPgFr51UpM
