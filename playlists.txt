@@ -24,4 +24,4 @@ SEARCH|Yaroa
 spotify:track:xxxxx
 
 # API Key Groq (opcional)
-GROQ_KEY|tu_key_gsk_p8qg09Nv03cQM3ywIaSwWGdyb3FYhPc9HeFZvHdJASfPgFr51UpM
+GROQ_KEY|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
